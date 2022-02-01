@@ -1,0 +1,14 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs/^4.0.0/components/context.jsonld",
+    "https://linkedsoftwaredependencies.org/bundles/npm/@iotakingdoms/common/*/components/context.jsonld"
+  ],
+  "import": [
+    "endpoint/health.jsonld",
+    "endpoint/not-found.jsonld",
+    "endpoint/version.jsonld",
+    "endpoint/prometheus.jsonld",
+    "logger/console.jsonld"
+  ],
+  "@graph": []
+}
