@@ -86,19 +86,6 @@ jobs:
         with:
           args: "--ignore-scripts"
       - run: npm run test:integration
-  test-e2e:
-    runs-on: ${{ matrix.operating-system }}
-    strategy:
-      matrix:
-        operating-system:
-          - ubuntu-latest
-        node-version:
-          - "17.x"
-    steps:
-      - uses: iotakingdoms/actions/packages/cached-npm-ci@main
-      - run: |
-          npm run build
-          npm run test:e2e
   sonarcloud:
     runs-on: ubuntu-latest
     steps:
