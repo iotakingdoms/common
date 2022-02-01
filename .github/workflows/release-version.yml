@@ -3,10 +3,9 @@ on:
   push:
     tags:
       - "v*"
-env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}
 jobs:
-  - uses: iotakingdoms/actions/packages/release-version@main
-    with:
-      npm_token: ${{ secrets.NPM_TOKEN }}
+  release:
+    steps:
+      - uses: iotakingdoms/actions/packages/release-version@main
+        with:
+          npm_token: ${{ secrets.NPM_TOKEN }}
