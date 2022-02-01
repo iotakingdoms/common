@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/iotakingdoms/common/compare/v0.0.1...v0.0.2) (2022-02-01)
+
+
+### Features
+
+* release-version workflow now also releases to npmjs.com ([01477b8](https://github.com/iotakingdoms/common/commit/01477b8a5f15c4e822a1a0e6ad8bbadf93073ff9))
+
 ### 0.0.1 (2022-02-01)
 
 
