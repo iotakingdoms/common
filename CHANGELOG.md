@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.13](https://github.com/iotakingdoms/common/compare/v0.0.12...v0.0.13) (2022-02-02)
+
+
+### Bug Fixes
+
+* context link ([e583bfe](https://github.com/iotakingdoms/common/commit/e583bfe8fd224e6417dd9358f7586c02a1a50a5e))
+* docs generation ([0fac19d](https://github.com/iotakingdoms/common/commit/0fac19d9f9d9708f94345e1f791a24fb6fa1436c))
+
 ### [0.0.12](https://github.com/iotakingdoms/common/compare/v0.0.11...v0.0.12) (2022-02-02)
 
 
