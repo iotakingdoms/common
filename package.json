@@ -10,7 +10,7 @@
     "https://linkedsoftwaredependencies.org/bundles/npm/@iotakingdoms/common/*/dist/": "dist/"
   },
   "name": "@iotakingdoms/common",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
