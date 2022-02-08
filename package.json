@@ -57,7 +57,7 @@
     "typescript": "4.5.5"
   },
   "dependencies": {
-    "componentsjs": "5.0.0-beta.4",
+    "componentsjs": "5.0.0-beta.5",
     "express": "^4.17.2",
     "node-mocks-http": "^1.11.0",
     "oidc-provider": "^7.10.6",
