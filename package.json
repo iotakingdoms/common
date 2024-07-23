@@ -54,7 +54,7 @@
     "standard-version": "9.5.0",
     "ts-jest": "29.2.3",
     "typedoc": "0.26.5",
-    "typescript": "5.5.3"
+    "typescript": "5.5.4"
   },
   "dependencies": {
     "componentsjs": "6.0.1",
