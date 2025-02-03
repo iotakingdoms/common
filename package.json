@@ -32,8 +32,8 @@
   "author": "Anton Wiklund",
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "19.6.1",
-    "@commitlint/config-conventional": "19.6.0",
+    "@commitlint/cli": "19.7.1",
+    "@commitlint/config-conventional": "19.7.1",
     "@types/express": "5.0.0",
     "@types/jest": "29.5.14",
     "@types/jest-environment-puppeteer": "5.0.6",
