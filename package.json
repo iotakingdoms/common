@@ -61,7 +61,7 @@
     "express": "^4.17.2",
     "node-mocks-http": "^1.11.0",
     "oidc-provider": "^8.0.0",
-    "prom-client": "^14.0.1",
+    "prom-client": "^15.0.0",
     "yargs": "^17.3.1"
   }
 }
